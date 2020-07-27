@@ -1,0 +1,12 @@
+/Users/robertmcqueen/Documents/GitHub/CS132-Summer-2020/ON/RobertMcQueen/Module3/Operators-Routines/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.deps.json
+/Users/robertmcqueen/Documents/GitHub/CS132-Summer-2020/ON/RobertMcQueen/Module3/Operators-Routines/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.runtimeconfig.json
+/Users/robertmcqueen/Documents/GitHub/CS132-Summer-2020/ON/RobertMcQueen/Module3/Operators-Routines/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.runtimeconfig.dev.json
+/Users/robertmcqueen/Documents/GitHub/CS132-Summer-2020/ON/RobertMcQueen/Module3/Operators-Routines/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.dll
+/Users/robertmcqueen/Documents/GitHub/CS132-Summer-2020/ON/RobertMcQueen/Module3/Operators-Routines/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.pdb
+/Users/robertmcqueen/Documents/GitHub/CS132-Summer-2020/ON/RobertMcQueen/Module3/Operators-Routines/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.csprojAssemblyReference.cache
+/Users/robertmcqueen/Documents/GitHub/CS132-Summer-2020/ON/RobertMcQueen/Module3/Operators-Routines/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.AssemblyInfoInputs.cache
+/Users/robertmcqueen/Documents/GitHub/CS132-Summer-2020/ON/RobertMcQueen/Module3/Operators-Routines/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.AssemblyInfo.cs
+/Users/robertmcqueen/Documents/GitHub/CS132-Summer-2020/ON/RobertMcQueen/Module3/Operators-Routines/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.csproj.CoreCompileInputs.cache
+/Users/robertmcqueen/Documents/GitHub/CS132-Summer-2020/ON/RobertMcQueen/Module3/Operators-Routines/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.dll
+/Users/robertmcqueen/Documents/GitHub/CS132-Summer-2020/ON/RobertMcQueen/Module3/Operators-Routines/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.pdb
+/Users/robertmcqueen/Documents/GitHub/CS132-Summer-2020/ON/RobertMcQueen/Module3/Operators-Routines/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PtlKwkopRNfrlme6YREIqNxkLN0BnFg+IgWhbFPKOOGBD78oUCevGStrC4QIPNDwNvp8+SrRGoxHYuYNPwGiKA==",
+  "success": true,
+  "projectFilePath": "/Users/robertmcqueen/Documents/GitHub/CS132-Summer-2020/ON/RobertMcQueen/Module3/Operators-Routines/Increment-Decrement/Increment-Decrement.csproj",
+  "expectedPackageFiles": [
+    "/Users/robertmcqueen/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
